@@ -16,4 +16,4 @@ const algolia = algoliasearch(
   process.env.ALGOLIA_APP_ID,
   process.env.ALGOLIA_API_KEY
 );
-const index = algolia.initIndex(process.env.ALGOLIA_INDEX_NAME);
+const search = algolia.initIndex(process.env.prod_Jobs);

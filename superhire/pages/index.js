@@ -1,6 +1,8 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
+import search from '../components/search'
+
 
 const Home = () => (
   <div>
@@ -16,7 +18,8 @@ const Home = () => (
       <p className="description">
         Job Search for Neurodiverse Applications!
       </p>
-
+  
+  <Search />
       
     </div>
 

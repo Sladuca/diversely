@@ -11,7 +11,7 @@
     "@bit/lekanmedia.shared-ui.search-bar": "^1.0.9",
     "@bit/semantic-org.semantic-ui-react.search": "^0.86.0",
     "algorithmia": "^0.3.10",
-    "next": "9.1.4",
+    "next": "9.3.2",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
